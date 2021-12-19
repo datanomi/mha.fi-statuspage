@@ -19,12 +19,12 @@ sites:
 status-website:
   cname: status.mha.fi
   # baseUrl: /your-repo-name
+  theme: dark
   logoUrl: https://mha.fi/content/favicon.png
   name: mha.fi Status page
   introMessage: Status page for all my different things.
   navbar:
     - title: Home
       href: https://mha.fi
-theme: dark
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
