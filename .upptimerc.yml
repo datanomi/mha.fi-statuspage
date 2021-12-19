@@ -21,11 +21,10 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://mha.fi/content/favicon.png
   name: mha.fi Status page
-  introTitle: "Powered by Upptime"
   introMessage: Status page for all my different things.
   navbar:
     - title: Home
       href: https://mha.fi
-
+theme: dark
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
