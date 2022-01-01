@@ -4,9 +4,9 @@
     "url": "https://mha.fi",
     "icon": "https://favicons.githubusercontent.com/mha.fi",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 486,
     "timeMonth": 553,
     "timeYear": 553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-01": 0
+    }
   },
   {
     "name": "Mail Server",
     "url": "https://hautaluoma.eu",
     "icon": "https://favicons.githubusercontent.com/hautaluoma.eu",
     "slug": "mail-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 616,
     "timeMonth": 677,
     "timeYear": 677,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-01": 0
+    }
   },
   {
     "name": "SearX",
@@ -59,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/nitter.it",
     "slug": "nitter",
     "status": "up",
-    "uptime": "89.87%",
+    "uptime": "90.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "89.87%",
-    "uptimeYear": "89.87%",
+    "uptimeMonth": "90.36%",
+    "uptimeYear": "90.36%",
     "time": 562,
     "timeDay": 520,
     "timeWeek": 647,
@@ -81,9 +85,9 @@
     "url": "https://bin.mha.fi",
     "icon": "https://favicons.githubusercontent.com/bin.mha.fi",
     "slug": "bin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,7 +96,9 @@
     "timeWeek": 796,
     "timeMonth": 799,
     "timeYear": 799,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-01": 0
+    }
   },
   {
     "name": "Link Shortener",
