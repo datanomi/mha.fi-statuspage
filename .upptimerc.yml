@@ -9,6 +9,10 @@ sites:
     url: https://hautaluoma.eu
   - name: SearX
     url: https://searx.mha.fi
+  - name: Invidious
+    url: https://tube.mha.fi
+  - name: Teddit
+    url: https://teddit.mha.fi
   - name: Nitter
     url: https://nitter.it
   - name: Bin
