@@ -1,7 +1,7 @@
 url: https://tube.mha.fi
-status: up
-code: 200
-responseTime: 924
-lastUpdated: 2022-01-30T23:10:37.322Z
+status: down
+code: 502
+responseTime: 599
+lastUpdated: 2022-01-30T23:24:23.631Z
 startTime: Fri Jan 14 2022 09:47:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
