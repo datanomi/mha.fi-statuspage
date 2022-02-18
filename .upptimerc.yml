@@ -5,7 +5,7 @@ repo: mha.fi-statuspage # The name of this repository
 env:
   NOTIFICATION_SMS_FROM: ${{ secrets.SMS_FROM }}
   NOTIFICATION_SMS_TO: ${{ secrets.SMS_TO }}
-  NOTIFICATION_SMS_TWILIO: "true"
+  NOTIFICATION_SMS_TWILIO: true
   NOTIFICATION_SMS_TWILIO_ACCOUNT_SID: ${{ secrets.SID }}
   NOTIFICATION_SMS_TWILIO_AUTH_TOKEN: ${{ secrets.TOKEN }}
   
