@@ -2,14 +2,6 @@
 owner: datanomi # Your GitHub organization or username, where this repository lives
 repo: mha.fi-statuspage # The name of this repository
 
-env:
-  NOTIFICATION_SMS_FROM: ${{ secrets.SMS_FROM }}
-  NOTIFICATION_SMS_TO: ${{ secrets.SMS_TO }}
-  NOTIFICATION_SMS_TWILIO: true
-  NOTIFICATION_SMS_TWILIO_ACCOUNT_SID: ${{ secrets.SID }}
-  NOTIFICATION_SMS_TWILIO_AUTH_TOKEN: ${{ secrets.TOKEN }}
-  
-
 sites:
   - name: Homepage
     url: https://mha.fi
@@ -40,5 +32,11 @@ status-website:
   navbar:
     - title: Home
       href: https://mha.fi
+      
+  NOTIFICATION_SMS_FROM: ${{ secrets.SMS_FROM }}
+  NOTIFICATION_SMS_TO: ${{ secrets.SMS_TO }}
+  NOTIFICATION_SMS_TWILIO: true,
+  NOTIFICATION_SMS_TWILIO_ACCOUNT_SID: ${{ secrets.SID }}
+  NOTIFICATION_SMS_TWILIO_AUTH_TOKEN: ${{ secrets.TOKEN }}
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
