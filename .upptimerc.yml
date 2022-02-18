@@ -19,6 +19,8 @@ sites:
     url: https://bin.mha.fi
   - name: Link Shortener
     url: https://7m.ee
+  - name: Bibliogram
+    url: https://gram.mha.fi
 
 status-website:
   cname: status.mha.fi
