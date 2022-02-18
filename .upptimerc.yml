@@ -33,6 +33,7 @@ status-website:
     - title: Home
       href: https://mha.fi
       
+      
   NOTIFICATION_SMS_FROM: ${{ secrets.SMS_FROM }}
   NOTIFICATION_SMS_TO: ${{ secrets.SMS_TO }}
   NOTIFICATION_SMS_TWILIO: true,
