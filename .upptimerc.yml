@@ -34,10 +34,8 @@ status-website:
       href: https://mha.fi
       
       
-  NOTIFICATION_SMS_FROM: ${{ secrets.SMS_FROM }}
-  NOTIFICATION_SMS_TO: ${{ secrets.SMS_TO }}
-  NOTIFICATION_SMS_TWILIO: true,
-  NOTIFICATION_SMS_TWILIO_ACCOUNT_SID: ${{ secrets.SID }}
-  NOTIFICATION_SMS_TWILIO_AUTH_TOKEN: ${{ secrets.TOKEN }}
+  NOTIFICATION_DISCORD: true,
+  NOTIFICATION_DISCORD_WEBHOOK: true,
+  NOTIFICATION_DISCORD_WEBHOOK_URL: ${{ secrets.DC_WEBHOOK }}
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
